@@ -27,3 +27,5 @@ credentials/
 # ==========================================
 Thumbs.db
 Desktop.ini
+# Registros temporales
+*.log
