@@ -24,7 +24,7 @@ Gimnasio-BD/
 │   └── respaldos/        Respaldo diferencial, monitoreo y archivado
 ├── evidencias/           Capturas, planes de ejecución (.sqlplan) y mediciones
 ├── powerbi/              Dashboard (.pbix) y capturas de sus páginas
-└── informe/              Informe técnico y matriz de permisos
+└── informe/              Informe técnico
 ```
 
 ## Requisitos previos
